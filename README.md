@@ -1,7 +1,9 @@
- <h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 - **About Me**: C | C++ | Python | MySQL | Frontend  
 - **Email**: navee147@gmail.com
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,6 +11,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen kumar s" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -32,8 +36,12 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenr810953&show_icons=true&locale=en&layout=compact" alt="naveenr810953" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenr810953&show_icons=true&locale=en" alt="naveenr810953" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenr810953&show_icons=true&locale=en&layout=compact" alt="naveenr810953" />
+</p>
 
-*Most frequently used languages*: Python and C++.
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenr810953&show_icons=true&locale=en" alt="naveenr810953" />
+</p>
