@@ -41,7 +41,7 @@
 
 ## 🎨 Profile View Counter
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Naveenr810953/count.svg" alt="Visitors Count">
+  <img src="https://count.getloli.com/get/@Naveenr810953?theme=moebooru" alt="Profile Views" />
 </div>
 
 <div align="center">
