@@ -28,14 +28,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenr810953&theme=dark" alt="GitHub Streak">
 </div>
 
-## 🎮 GitHub Contributions as Breakout Game
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
-    <img alt="Breakout Game" src="images/breakout-light.svg" />
-  </picture>
-</div>
+ 
 
 ## 🌐 Connect with Me
 <h3 align="left">Connect with me:</h3>
