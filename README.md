@@ -29,14 +29,11 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Naveenr810953&theme=default&no-frame=false&no-bg=true&margin-w=4&rank=-C&row=1&column=3)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Naveenr810953&theme=default&no-frame=false&no-bg=true&margin-w=4&rank=-C&row=1&column=3" alt="Naveen's GitHub Trophies"/>
+</div>
 
-## 🌐 Connect with Me
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/naveen-kumar-s-795a9828b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="naveen kumar s" /></a>
-<a href="https://www.instagram.com/naveeeeen18_?igsh=MWthOG4waHFrOGx2ZA==" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="naveen kumar s" /></a>
-</p>
+ 
 
 ## 📫 Contact
 *Email:* navee4147@gmail.com
