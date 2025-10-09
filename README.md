@@ -1,4 +1,4 @@
- # 👨‍💻  Full Stack Developer
+# 👨‍💻 Full Stack Developer
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Naveen%20%20Kumar%20%20S&fontSize=70&animation=fadeIn" width="100%">
 </div>
@@ -28,7 +28,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenr810953&theme=dark" alt="GitHub Streak">
 </div>
 
- 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Naveenr810953&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Connect with Me
 <h3 align="left">Connect with me:</h3>
@@ -38,7 +39,7 @@
 </p>
 
 ## 📫 Contact
-*Email:*  navee4147@gmail.com
+*Email:* navee4147@gmail.com
 
 ## 🎨 Profile View Counter
 <div align="center">
