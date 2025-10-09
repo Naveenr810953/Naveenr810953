@@ -29,7 +29,7 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Naveenr810953&theme=default&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Naveenr810953&theme=default&no-frame=false&no-bg=true&margin-w=4&rank=-C&row=1&column=3)
 
 ## 🌐 Connect with Me
 <h3 align="left">Connect with me:</h3>
