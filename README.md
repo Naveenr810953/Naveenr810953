@@ -29,8 +29,8 @@
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naveenr810953&theme=default&no-frame=false&no-bg=true&margin-w=4&rank=-C&row=1&column=3" alt="Naveen's GitHub Trophies"/>
+<div align="center" style="padding-left: 155px;">
+  <img src="https://github-trophies.vercel.app/?username=Naveenr810953&theme=onedark&no-frame=true&no-bg=true&title=Commits,Repositories,Issues" alt="GitHub Trophies" />
 </div>
 
  
