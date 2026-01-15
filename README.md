@@ -24,8 +24,8 @@
 </p>
 
 ## 🔥 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenr810953&theme=dark" alt="GitHub Streak">
+  <div align="center" style="padding-left: 155px;">
+ <img src="https://streak-stats.demolab.com?user=Naveenr810953&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -33,7 +33,6 @@
   <img src="https://github-trophies.vercel.app/?username=Naveenr810953&theme=onedark&no-frame=true&no-bg=true&title=Commits,Repositories,Issues" alt="GitHub Trophies" />
 </div>
 
- 
 
 ## 📫 Contact
 *Email:* navee4147@gmail.com
