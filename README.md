@@ -23,11 +23,6 @@
   <img src="https://skillicons.dev/icons?i=firebase,linux,git,github" />
 </p>
 
-## 🔥 GitHub Stats
-  <div align="center" style="padding-left: 155px;">
- <img src="https://streak-stats.demolab.com?user=Naveenr810953&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
 ## 🏆 GitHub Trophies
 <div align="center" style="padding-left: 155px;">
   <img src="https://github-trophies.vercel.app/?username=Naveenr810953&theme=onedark&no-frame=true&no-bg=true&title=Commits,Repositories,Issues" alt="GitHub Trophies" />
