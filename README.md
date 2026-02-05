@@ -29,6 +29,14 @@
 </div>
 
 
+## 🔥 GitHub Stats
+  <div align="center" style="padding-left: 155px;">
+ <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenr810953&theme=dark&hide_border=false&count_private=true&v=2" alt="GitHub Streak" />
+</p>
+</div>
+ 
+
 ## 📫 Contact
 *Email:* navee4147@gmail.com
 
